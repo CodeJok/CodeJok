@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeJok
+- 👋 Hi, I’m Larry
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,8 +10,8 @@
 CodeJok/CodeJok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm @codejok
-I'm interested in helping people with code and scripts
+Hi, I'm Larry
+I'm interested making HTML and C++ Code.
 I'm looking to collaborate with other coders and scripters
 How to reach me Discord 
 harrypotter#0568
